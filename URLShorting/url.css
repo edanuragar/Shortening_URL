@@ -1,0 +1,22 @@
+*{
+    background-color: #F1F8E8;
+    ;
+}
+#exampleFormControlInput1{
+    background-color: #FFF5E1;
+    border-color: #55AD9B;
+    border-width: 2px;
+    border-radius: 3px;
+    color: #346f63;
+}
+#shorturl{
+
+    color: #365E32;
+}
+.btn{
+    color: #FFF5E1;
+    background-color: #346f63;
+}
+.btn:hover{
+    background-color: #365E32;
+}
